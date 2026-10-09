@@ -42,7 +42,7 @@ are included below for anyone maintaining or updating the tool.
    Urbana-[Group]-[Range]-[SKU]-[Details]-[RenderView]-[yyyy-mm-dd].ext
    ```
 
-   e.g. `Urbana-Shelters-Jarrah-U100-timber skillion-front-view-2026-01-14.jpg`
+   e.g. `Urbana-Shelters-Jarrah-U100-timber-skillion-front-view-2026-01-14.jpg`
 
    Your originals are never modified — new files are written to the output
    folder, and name collisions get a `-2`, `-3`, etc. suffix rather than
